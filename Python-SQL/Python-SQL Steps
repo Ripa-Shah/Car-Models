@@ -2,5 +2,8 @@
 #To implement this I have use panda and pyodbc library in python
 #I use following reference
 #https://datatofish.com/import-csv-sql-server-python/
+#I have also used another method using SSIS packages. You can check on my SSIS repository with different project
+#Secondly, I am building various graph of SQL data in python
+# I am inspired by following link.
 #https://blogs.solidq.com/en/sqlserver/python-for-sql-server-specialists-part-3-graphs-and-machine-learning/
 #Here I am doing car models projects where I have created table car_info and car_sales from the csv.
