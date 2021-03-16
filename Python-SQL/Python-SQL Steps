@@ -1,0 +1,6 @@
+#Here I am generating tables from csv using python-SQL
+#To implement this I have use panda and pyodbc library in python
+#I use following reference
+#https://datatofish.com/import-csv-sql-server-python/
+#https://blogs.solidq.com/en/sqlserver/python-for-sql-server-specialists-part-3-graphs-and-machine-learning/
+#Here I am doing car models projects where I have created table car_info and car_sales from the csv.
