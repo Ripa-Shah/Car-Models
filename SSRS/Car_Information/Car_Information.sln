@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Car_Information", "Car_Information.rptproj", "{005F4735-B4B0-4AA5-92C2-BF485A93919B}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS_Project", "..\SSRS_Solution\SSRS_Project\SSRS_Project.rptproj", "{2050BE46-E174-4004-8407-717988C8458D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005F4735-B4B0-4AA5-92C2-BF485A93919B}.Debug|Default.ActiveCfg = Debug
+		{005F4735-B4B0-4AA5-92C2-BF485A93919B}.Debug|Default.Build.0 = Debug
+		{005F4735-B4B0-4AA5-92C2-BF485A93919B}.Debug|Default.Deploy.0 = Debug
+		{005F4735-B4B0-4AA5-92C2-BF485A93919B}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{005F4735-B4B0-4AA5-92C2-BF485A93919B}.DebugLocal|Default.Build.0 = DebugLocal
+		{005F4735-B4B0-4AA5-92C2-BF485A93919B}.Release|Default.ActiveCfg = Release
+		{005F4735-B4B0-4AA5-92C2-BF485A93919B}.Release|Default.Build.0 = Release
+		{005F4735-B4B0-4AA5-92C2-BF485A93919B}.Release|Default.Deploy.0 = Release
+		{2050BE46-E174-4004-8407-717988C8458D}.Debug|Default.ActiveCfg = Debug
+		{2050BE46-E174-4004-8407-717988C8458D}.Debug|Default.Build.0 = Debug
+		{2050BE46-E174-4004-8407-717988C8458D}.Debug|Default.Deploy.0 = Debug
+		{2050BE46-E174-4004-8407-717988C8458D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2050BE46-E174-4004-8407-717988C8458D}.DebugLocal|Default.Build.0 = DebugLocal
+		{2050BE46-E174-4004-8407-717988C8458D}.DebugLocal|Default.Deploy.0 = DebugLocal
+		{2050BE46-E174-4004-8407-717988C8458D}.Release|Default.ActiveCfg = Release
+		{2050BE46-E174-4004-8407-717988C8458D}.Release|Default.Build.0 = Release
+		{2050BE46-E174-4004-8407-717988C8458D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B7F5AA8-4828-4012-82D4-B011CF447742}
+	EndGlobalSection
+EndGlobal
